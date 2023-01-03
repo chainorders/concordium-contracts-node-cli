@@ -1,0 +1,3 @@
+[submodule "concordium-contracts"]
+	path = concordium-contracts
+	url = https://github.com/chainorders/concordium-contracts.git
