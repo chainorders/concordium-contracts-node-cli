@@ -1,4 +1,4 @@
-# Sample CIS2 Contracts
+# Interacting with Concordium Smart Contracts using Node SDK
 
 Concordium is a science-based proof-of-stake blockchain created for all, with in particular business applications in mind. [Read more about concordium](https://www.concordium.com/about)
 
